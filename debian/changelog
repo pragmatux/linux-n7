@@ -1,8 +1,8 @@
-linux-n7 (3.1.10-6325-g8722d5e-0) UNRELEASED; urgency=low
+linux-n7 (3.1.10-6325-g8722d5e-1) unstable; urgency=low
 
   * Initial release
   * Based on branch android-tegra3-grouper-3.1-jb-mr1.1
     at https://android.googlesource.com/kernel/tegra
   * The version number is based on the nearest stable kernel tag
 
- -- Ryan Kuester <rkuester@insymbols.com>  Fri, 04 Apr 2013 14:35:30 -0500
+ -- Ryan Kuester <rkuester@insymbols.com>  Tue, 16 Apr 2013 13:03:39 -0500
